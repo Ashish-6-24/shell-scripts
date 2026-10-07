@@ -1,4 +1,4 @@
-# 🐚 Shell Scripts
+# Shell Scripts
 
 A collection of practical Bash scripts built during my #90DaysOfDevOps journey, focused on Linux automation, system checks, server maintenance, and log analysis.
 
@@ -56,7 +56,7 @@ A collection of practical Bash scripts built during my #90DaysOfDevOps journey, 
 - `summary_log.sh` — Generates log summaries
 - `top_error.sh` — Identifies frequent errors
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 **Automate repetitive work → validate inputs → handle failures → inspect systems → produce useful output**
 
